@@ -95,7 +95,7 @@
                    <!--<span>：</span>-->
                    <!--<img class='emoji' src="../assets/img/Expression_40.png" alt="拜拜" width=24>-->
                  <!--</p>-->
-                 <p><span>金鸮：</span>兄弟，助你一程~</p>
+                 <!--<p><span>金鸮：</span>兄弟，助你一程~</p>-->
                </div>
              </div>
              <!--<transition name="slide-fade">-->
